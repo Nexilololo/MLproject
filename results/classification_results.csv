@@ -1,3 +1,0 @@
-,Accuracy,Precision,Recall,F1,ROC AUC
-Logistic Regression,0.93,0.535,0.891,0.669,0.975
-Random Forest,0.936,0.57,0.806,0.668,0.969
